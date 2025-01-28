@@ -1,7 +1,6 @@
 # bctbit-test
 ## Page Object Model Pattern with Playwright
 
-![alt text](./playwright-logo.png)
 
 This repository has test code, written in type script and playwright
 
